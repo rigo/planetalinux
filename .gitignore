@@ -14,3 +14,4 @@ proc/universo/config.ini
 *.tmplc
 *.DS_Store
 local/
+db/planetalinux
